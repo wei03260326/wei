@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# 虛擬環境
+venv/
+.env
+
+# 資料庫
+*.db
